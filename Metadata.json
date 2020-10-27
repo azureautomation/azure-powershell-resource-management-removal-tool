@@ -1,0 +1,20 @@
+{
+    "Author": "Jono Lewis",
+    "ContentSize": 26911,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-powershell-resource-management-removal-tool/master/AZRM-RemoveResource.ps1",
+    "DownloadCount": 887,
+    "Id": "Azure-PowerShell-Resource-2a86cd90",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 499,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-10-24T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This tool is intended to allow Azure users to remove existing Resource Groups, Azure Extensions, Virtual Machines, Load Balancers, VNets and Network Security Groups..\\AZRM-RemoveResource.ps1 -RemoveObject extension -AzExtConfig diag -VMName suse1001 -rg resx.\\AZRM-RemoveResource",
+    "Title": "Azure PowerShell Resource Management Removal Tool",
+    "UpdatedDate": "2017-6-11T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-powershell-resource-management-removal-tool",
+    "UserTags": "Microsoft Azure, Windows Azure PowerShell, Azure Resource Manager"
+}
